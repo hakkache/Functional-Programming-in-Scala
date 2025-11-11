@@ -1,0 +1,17 @@
+# sbt
+target/
+project/target/
+project/project/
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# mac/windows
+.DS_Store
+Thumbs.db
+
+# logs
+logs/
+*.log
