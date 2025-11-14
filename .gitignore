@@ -8,8 +8,7 @@ project/project/
 *.iml
 out/
 
-# mac/windows
-.DS_Store
+# windows
 Thumbs.db
 
 # logs
